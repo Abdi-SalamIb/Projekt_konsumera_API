@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Lab 4 del G/1.0.0": {
+        "runtime": {
+          "Lab 4 del G.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab 4 del G/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

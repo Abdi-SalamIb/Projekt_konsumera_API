@@ -1,0 +1,14 @@
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\bin\Debug\net9.0\Projekt konsumera API.exe
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\bin\Debug\net9.0\Projekt konsumera API.deps.json
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\bin\Debug\net9.0\Projekt konsumera API.runtimeconfig.json
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\bin\Debug\net9.0\Projekt konsumera API.dll
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\bin\Debug\net9.0\Projekt konsumera API.pdb
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\obj\Debug\net9.0\Projekt konsumera API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\obj\Debug\net9.0\Projekt konsumera API.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\obj\Debug\net9.0\Projekt konsumera API.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\obj\Debug\net9.0\Projekt konsumera API.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\obj\Debug\net9.0\Projekt konsumera API.dll
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\obj\Debug\net9.0\refint\Projekt konsumera API.dll
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\obj\Debug\net9.0\Projekt konsumera API.pdb
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\obj\Debug\net9.0\Projekt konsumera API.genruntimeconfig.cache
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\obj\Debug\net9.0\ref\Projekt konsumera API.dll

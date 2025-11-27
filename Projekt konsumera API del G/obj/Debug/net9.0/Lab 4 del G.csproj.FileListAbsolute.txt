@@ -1,0 +1,14 @@
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\bin\Debug\net9.0\Lab 4 del G.exe
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\bin\Debug\net9.0\Lab 4 del G.deps.json
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\bin\Debug\net9.0\Lab 4 del G.runtimeconfig.json
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\bin\Debug\net9.0\Lab 4 del G.dll
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\bin\Debug\net9.0\Lab 4 del G.pdb
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\obj\Debug\net9.0\Lab 4 del G.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\obj\Debug\net9.0\Lab 4 del G.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\obj\Debug\net9.0\Lab 4 del G.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\obj\Debug\net9.0\Lab 4 del G.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\obj\Debug\net9.0\Lab 4 del G.dll
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\obj\Debug\net9.0\refint\Lab 4 del G.dll
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\obj\Debug\net9.0\Lab 4 del G.pdb
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\obj\Debug\net9.0\Lab 4 del G.genruntimeconfig.cache
+C:\Users\Mohamed\Desktop\Lab4\Projekt konsumera API\Projekt konsumera API\obj\Debug\net9.0\ref\Lab 4 del G.dll
