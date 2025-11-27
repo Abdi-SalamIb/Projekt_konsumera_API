@@ -1,0 +1,14 @@
+C:\Users\Mohamed\Desktop\Lab4\Lab 4 del VG\bin\Debug\net9.0\Lab 4 del VG.exe
+C:\Users\Mohamed\Desktop\Lab4\Lab 4 del VG\bin\Debug\net9.0\Lab 4 del VG.deps.json
+C:\Users\Mohamed\Desktop\Lab4\Lab 4 del VG\bin\Debug\net9.0\Lab 4 del VG.runtimeconfig.json
+C:\Users\Mohamed\Desktop\Lab4\Lab 4 del VG\bin\Debug\net9.0\Lab 4 del VG.dll
+C:\Users\Mohamed\Desktop\Lab4\Lab 4 del VG\bin\Debug\net9.0\Lab 4 del VG.pdb
+C:\Users\Mohamed\Desktop\Lab4\Lab 4 del VG\obj\Debug\net9.0\Lab 4 del VG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\Desktop\Lab4\Lab 4 del VG\obj\Debug\net9.0\Lab 4 del VG.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\Lab4\Lab 4 del VG\obj\Debug\net9.0\Lab 4 del VG.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\Lab4\Lab 4 del VG\obj\Debug\net9.0\Lab 4 del VG.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\Lab4\Lab 4 del VG\obj\Debug\net9.0\Lab 4 del VG.dll
+C:\Users\Mohamed\Desktop\Lab4\Lab 4 del VG\obj\Debug\net9.0\refint\Lab 4 del VG.dll
+C:\Users\Mohamed\Desktop\Lab4\Lab 4 del VG\obj\Debug\net9.0\Lab 4 del VG.pdb
+C:\Users\Mohamed\Desktop\Lab4\Lab 4 del VG\obj\Debug\net9.0\Lab 4 del VG.genruntimeconfig.cache
+C:\Users\Mohamed\Desktop\Lab4\Lab 4 del VG\obj\Debug\net9.0\ref\Lab 4 del VG.dll
